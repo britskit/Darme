@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../agriculture-diploma/.idea/agriculture-diploma.iml" filepath="$PROJECT_DIR$/../agriculture-diploma/.idea/agriculture-diploma.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../backend-gts/.idea/backend-gts.iml" filepath="$PROJECT_DIR$/../backend-gts/.idea/backend-gts.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/dilnaza.iml" filepath="$PROJECT_DIR$/.idea/dilnaza.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../engschool/.idea/engschool.iml" filepath="$PROJECT_DIR$/../engschool/.idea/engschool.iml" />
+    </modules>
+  </component>
+</project>
